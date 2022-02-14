@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi, my name is **Nicolay Ilin**!
+## I`m beginner *Front-end developer* from small town.
+
+
+###Languages and Technologies
+![JavaScript](https:/img/shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
 <!--
 **NicolayPages/NicolayPages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
