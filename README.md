@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Nicolay Ilin**!
-## I`m beginner *Front-end developer* from small town.
+## I`m beginner *Front-end developer* is from small town.
 ### Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JAVASCRIPT)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TYPESCRIPT)
