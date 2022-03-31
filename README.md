@@ -1,5 +1,11 @@
 # 👋 Hi, my name is **Nicolay Ilin**!
 ## I`m beginner *Front-end developer* is from small town.
+
+A long time of departure for the Frontend and
+is currently actively looking for a job in this area. In the distant future, 
+it would be interesting to master fullstack.
+In your free time, try to learn new technologies and write code.
+
 ### Languages and Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JAVASCRIPT)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TYPESCRIPT)
